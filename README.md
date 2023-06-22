@@ -1,1 +1,5 @@
 # QuantumTutor-Dissertation
+
+This project aims to facilitate the growth of the Quantum computing field, through implementing novel technologies that would provide an engaging educational experience. This will be done through the development of an educational application that uses the IBM Cloud journey. This app would focus on stirring interest through the use of popular new technology such as Augmented reality and Chatbot AI, such as IBM’s Watson AI (High, R. , (2012)). The chatbot implementation simulates the one-on-one tutorial experience that a student might have with a teacher, enabling them to ask about whatever they are struggling to understand. Augmented Reality may help with the visualisation of quantum phenomena in a 3D environment without necessarily understanding high-level mathematical abstractions. The application would be aimed at people who are beginners in terms of their quantum knowledge (Roda, C. and Martin-Gutierrez, J. (2012)). 
+
+Demo: https://drive.google.com/file/d/1uz0P4LIxS2ky9crf59tC8KTqJ3JFNcgR/preview
